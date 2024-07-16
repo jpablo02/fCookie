@@ -47,6 +47,7 @@ import { Address } from "~~/components/scaffold-eth";
 /* eslint-disable @next/next/no-img-element */
 
 /* eslint-disable @typescript-eslint/no-unused-vars */
+
 /* eslint-disable @next/next/no-img-element */
 
 const Home: NextPage = () => {
