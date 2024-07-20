@@ -69,6 +69,11 @@ module.exports = {
           },
           ".link:hover": {
             opacity: "80%",
+
+            ".btn-custom": {
+            backgroundColor: "#FF8863",
+            color: "#212638",
+          },
           },
         },
       },
