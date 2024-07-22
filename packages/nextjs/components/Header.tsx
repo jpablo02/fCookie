@@ -48,6 +48,46 @@ import { useOutsideClick } from "~~/hooks/scaffold-eth";
 /* eslint-disable @next/next/no-img-element */
 
 /* eslint-disable @typescript-eslint/no-unused-vars */
+
+/* eslint-disable @next/next/no-img-element */
+
+/* eslint-disable @typescript-eslint/no-unused-vars */
+
+/* eslint-disable @next/next/no-img-element */
+
+/* eslint-disable @typescript-eslint/no-unused-vars */
+
+/* eslint-disable @next/next/no-img-element */
+
+/* eslint-disable @typescript-eslint/no-unused-vars */
+
+/* eslint-disable @next/next/no-img-element */
+
+/* eslint-disable @typescript-eslint/no-unused-vars */
+
+/* eslint-disable @next/next/no-img-element */
+
+/* eslint-disable @typescript-eslint/no-unused-vars */
+
+/* eslint-disable @next/next/no-img-element */
+
+/* eslint-disable @typescript-eslint/no-unused-vars */
+
+/* eslint-disable @next/next/no-img-element */
+
+/* eslint-disable @typescript-eslint/no-unused-vars */
+
+/* eslint-disable @next/next/no-img-element */
+
+/* eslint-disable @typescript-eslint/no-unused-vars */
+
+/* eslint-disable @next/next/no-img-element */
+
+/* eslint-disable @typescript-eslint/no-unused-vars */
+
+/* eslint-disable @next/next/no-img-element */
+
+/* eslint-disable @typescript-eslint/no-unused-vars */
 /* eslint-disable @next/next/no-img-element */
 
 type HeaderMenuLink = {
@@ -133,14 +173,14 @@ export const Header = () => {
         <Link href="/" passHref className="hidden lg:flex items-center gap-2 ml-4 mr-6 shrink-0">
           <div className="flex relative w-10 h-10">
             <Image
-              alt="SE2 logo"
+              alt="logo"
               className="cursor-pointer"
               fill
               src="https://bafybeifcr5flcvjqptfoma4zaq2qtd4ca3upbwvtmyia6bhzk2lwxvmxbi.ipfs.dweb.link/galletaok.png"
             />
           </div>
           <div className="flex flex-col">
-            <span className="font-bold leading-tight">YOUR DAILY</span>
+            <span className="font-bold leading-tight">TAKE ONE</span>
             <span className="text-xs">Fortune Cookie</span>
           </div>
         </Link>
